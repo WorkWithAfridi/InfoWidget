@@ -1,7 +1,7 @@
 name: info_widget
-description: A new Flutter project.
-version: 0.0.1
-homepage:
+description: The "InfoWidget" widget package is a customizable Flutter widget that displays a popup text when clicked. This widget is perfect for use in applications where users need to see additional information without leaving the current screen.
+version: 1.0.0
+homepage: https://github.com/WorkWithAfridi/InfoWidget.git
 
 environment:
   sdk: '>=2.19.2 <3.0.0'

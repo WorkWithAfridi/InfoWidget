@@ -14,11 +14,11 @@ class InfoWidget extends StatelessWidget {
     this.elevation = 6,
   }) : super(key: key);
 
-  String infoText;
-  TextStyle infoTextStyle;
-  IconData iconData;
-  Color iconColor;
-  double elevation;
+  final String infoText;
+  final TextStyle infoTextStyle;
+  final IconData iconData;
+  final Color iconColor;
+  final double elevation;
 
   @override
   Widget build(BuildContext context) {
